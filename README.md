@@ -1,5 +1,4 @@
-# Chairs-and-Members-Resources
-## The ENIGMA GCLUST repository is being updated here.
+# Chairs and Members Resources
 
 Linked below are ENIGMA Consortium resources made available for chairs & members:
 1. [Template Memorandum of Understanding (updated April 2021)](https://docs.google.com/document/d/10OWVnNSk54L3LsleurjHi99530IrvFBd)
