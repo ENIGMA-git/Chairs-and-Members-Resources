@@ -1,6 +1,6 @@
-# Chairs and Members Resources
+# Welcome to the GitHub for the [ENIGMA Consortium](http://enigma.ini.usc.edu/)
 
-The ENIGMA Consortium is an international effort by leaders worldwide. The Consortium brings together researchers in imaging genomics, neurology and psychiatry, to understand brain structure and function, based on MRI, DTI, fMRI, genetic data and many patient populations.
+The Enhancing NeuroImaging Genetics by Meta-Analysis (ENIGMA) Consortium is an international effort by leaders worldwide. The Consortium brings together researchers in imaging genomics, neurology and psychiatry, to understand brain structure and function, based on MRI, DTI, fMRI, genetic data and many patient populations.
 
 The best return on our research investments will come from combining our data to achieve the large samples necessary to detect the modest gene effect sizes that we now know are the rule rather the exception for complex traits.
 
